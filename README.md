@@ -11,7 +11,7 @@ This demo shows you how to:
 2. Register the agent on the ERC-8004 Identity Registry (Base Sepolia testnet)
 3. Verify that your agent is discoverable and its storage is provably persistent
 
-> **⚠️ Important**: This is currently a testnet-only demo. Both Filecoin Pin and this implementation run on Filecoin Calibration testnet, which has no persistence guarantees and limited data retention. Filecoin Pin is not yet available on mainnet. For production use, you'll need to wait for mainnet support.
+> **⚠️ Important**: This demo uses Filecoin Calibration testnet, which has no persistence guarantees and limited data retention. For production use requiring long-term storage, you'll need to migrate to Filecoin mainnet.
 
 ## Learn More
 
